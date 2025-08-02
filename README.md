@@ -175,7 +175,17 @@ Highlights gaps in manager-employee evaluation alignment and underlines need for
 ### 🟡 **Page 5: Employee More Details**
 **Purpose:**
 
- Provide a detailed view of individual employee profiles for granular analysis.
+Provide a detailed view of individual employee profiles for granular analysis.
+
+This table serves as a drill-through report for deep-diving into individual employee attributes. It supports:
+
+Identifying patterns between roles, salaries, and satisfaction.
+
+Exploring how education fields relate to job roles.
+
+Comparing performance evaluations across different employee profiles.
+
+Spotting outliers — e.g., employees with low satisfaction but high ratings, or vice versa.
 
 **Table Contains:**
 - Employee Full Name
