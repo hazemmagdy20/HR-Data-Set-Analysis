@@ -33,9 +33,11 @@ The dataset is fictional and structured to simulate a real-world corporate HR sc
 
 ### 🟢 **Page 1: Employee Demographics**
 **Purpose:**
+
 Understand workforce distribution across gender, department, marital status, and education.
 
 ** Key Insights:**
+
 Total employees: 1470, of which 237 have left.
 
 Workforce is fairly balanced by gender with 44% male, 46% female, and 8% non-binary , 2% Prefer Not To Say.
@@ -45,6 +47,7 @@ Technology holds the majority of employees (961), followed by Sales (446).
 Most common Education fields: Computer Science and Information Systems.
 
 **Business Value:**
+
 Helps in assessing diversity, identifying department sizes, and targeting tailored HR policies by demographics.
 
 📷 **Screenshot:**  
@@ -55,9 +58,11 @@ Helps in assessing diversity, identifying department sizes, and targeting tailor
 
 ### 🟠 **Page 2: Employee Attrition**
 **Purpose:**
+
 Investigate factors contributing to employee turnover and identify at-risk groups.
 
 **Insights:**
+
 Attrition correlates with lower income brackets.
 
 Higher attrition oocurs in Technology (133) And Sales (92) departments.
@@ -71,6 +76,7 @@ Employees Who worked Over Time are more likely to leave.
 Visuals include attrition breakdown by department, education, and job role.
 
 **Business Value:**
+
 Enables proactive retention planning by identifying segments with high turnover risk.
 
 📷 **Screenshot:**  
@@ -81,9 +87,11 @@ Enables proactive retention planning by identifying segments with high turnover 
 
 ### 🔵 **Page 3: Employee Satisfaction**
 **Purpose:**
+
 Track employee satisfaction in key areas to inform engagement and retention strategies.
 
 **Insights:**
+
 Satisfaction is relatively consistent across departments and job roles, but minor differences may indicate opportunities for targeted improvement.
 
 Environment satisfaction is high (3.9) — employees generally feel comfortable in their workplace.
@@ -101,9 +109,11 @@ Employees earning less than 10K/month are far more likely to leave.
 Higher satisfaction correlates with slightly higher retention.
 
 **Recommendation:**
+
 Improving job content and interpersonal dynamics (esp. in HR), and offering better salary progression paths could reduce attrition.
 
 **Business Value:**
+
 Supports improvement of employee experience and informs HR initiatives to boost satisfaction and morale.
 
 
@@ -115,9 +125,11 @@ Supports improvement of employee experience and informs HR initiatives to boost 
 
 ### 🟣 **Page 4: Employee Performance & Ratings**
 **Purpose:**
+
 Evaluate performance management metrics and trends over time.
 
 **Insights:**
+
 Employees rate themselves highly, while managers are more conservative.
 
 Work-life balance and training opportunities are moderate to low, which may impact retention and satisfaction.
@@ -151,6 +163,7 @@ Self-ratings remain high, though dipping slightly since 2019 — possibly reflec
 Data Scientist Role has most manager rating with 3.53.
 
 **Business Value:**
+
 Highlights gaps in manager-employee evaluation alignment and underlines need for increased investment in training and balance.
 
 📷 **Screenshot:**  
@@ -161,6 +174,7 @@ Highlights gaps in manager-employee evaluation alignment and underlines need for
 
 ### 🟡 **Page 5: Employee More Details**
 **Purpose:**
+
  Provide a detailed view of individual employee profiles for granular analysis.
 
 **Table Contains:**
