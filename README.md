@@ -37,8 +37,11 @@ Understand workforce distribution across gender, department, marital status, and
 
 ** Key Insights:**
 Total employees: 1470, of which 237 have left.
+
 Workforce is fairly balanced by gender with 44% male, 46% female, and 8% non-binary , 2% Prefer Not To Say.
+
 Technology holds the majority of employees (961), followed by Sales (446).
+
 Most common Education fields: Computer Science and Information Systems.
 
 **Business Value:**
@@ -56,10 +59,15 @@ Investigate factors contributing to employee turnover and identify at-risk group
 
 **Insights:**
 Attrition correlates with lower income brackets.
+
 Higher attrition oocurs in Technology (133) And Sales (92) departments.
+
 Younger employees and those with fewer years at the company are more likely to leave.
+
 Years 2025 is the most year has Attritions.
+
 Employees Who worked Over Time are more likely to leave.
+
 Visuals include attrition breakdown by department, education, and job role.
 
 **Business Value:**
@@ -77,12 +85,19 @@ Track employee satisfaction in key areas to inform engagement and retention stra
 
 **Insights:**
 Satisfaction is relatively consistent across departments and job roles, but minor differences may indicate opportunities for targeted improvement.
+
 Environment satisfaction is high (3.9) — employees generally feel comfortable in their workplace.
+
 Job & relationship satisfaction are average (3.4) — room for improvement in work content and peer/manager relations.
+
 Satisfaction is relatively consistent across departments espicially in sales & Technology.
+
 Human Resources has slightly lower relationship satisfaction, which could be a red flag for internal team dynamics.
+
 HR roles show mixed results: while the environment is highly rated, job and relationship satisfaction flag.
+
 Employees earning less than 10K/month are far more likely to leave.
+
 Higher satisfaction correlates with slightly higher retention.
 
 **Recommendation:**
@@ -104,20 +119,35 @@ Evaluate performance management metrics and trends over time.
 
 **Insights:**
 Employees rate themselves highly, while managers are more conservative.
+
 Work-life balance and training opportunities are moderate to low, which may impact retention and satisfaction.
+
 Performance trend is stable, but self-ratings declined post-2018.
+
 Self Ratings are higher (avg: 4.0) than Manager Ratings (avg: 3.5).
+
 Work-Life Balance averages 3.4, indicating potential for improvement.
+
 Training Opportunities (avg: 2) and Training Taken (avg: 1) suggest underutilized development programs.
+
 Performance ratings remained relatively stable over the years, with minor dips in 2020–2022.
+
 HR has slightly lower work-life balance ratings, which correlates with earlier insights (e.g., lower satisfaction in HR roles).
+
 Technical roles receive better performance reviews.
+
 Several HR and managerial roles score lowest, possibly due to role pressure or lack of alignment with expectations.
+
 Performance ratings increase with experience in role.
+
 Managers tend to value stability and time in role.
+
 New employees may need time to prove themselves — suggests possible bias or need for better onboarding feedback.
+
 Manager ratings dropped slightly post-2016, potentially tied to organizational change, leadership shifts, or increasing expectations.
+
 Self-ratings remain high, though dipping slightly since 2019 — possibly reflecting pandemic-era stress or increased workload.
+
 Data Scientist Role has most manager rating with 3.53.
 
 **Business Value:**
